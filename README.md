@@ -2,7 +2,7 @@ CrimeSpot
 ========
 An Android app to provide users the safety information in Gmap.
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/android.png)
+![Image Alt](/demo/android.png)
 
 Users stories
 --------------
@@ -10,18 +10,18 @@ Users stories
 - Users can search location in Gmap.
 - Users can see both the general and detail safety information of anywhere.
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/currentlocation.png)
+![Image Alt](/demo/currentlocation.png)
 - Users can see the recent nearby crimes in Gmap.
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/nearbycrimes.png)
+![Image Alt](/demo/nearbycrimes.png)
 - Users can send warning message to users nearby.
 - Users can subscribe warning channel for nearby crimes.
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/sendWarn.png)
+![Image Alt](/demo/sendWarn.png)
 - Users can send review and rating star to server.
 - Users can review others' reviews.
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/sendReview.png)
+![Image Alt](/demo/sendReview.png)
 - Users can see the safety analysis (heapmap, crime trend, crime type, etc).
 =======
 ===========
@@ -35,38 +35,38 @@ An Android app to provide users the safety information in Gmap and a warning sys
 4. Users can rate the safety for the current location
 >>>>>>> origin/master
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/heapmap.png)
+![Image Alt](/demo/heapmap.png)
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/historyanalysis.png)
+![Image Alt](/demo/historyanalysis.png)
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/crimetype.png)
+![Image Alt](/demo/crimetype.png)
 
 Tools / framework used
 ------------------------
 <<<<<<< HEAD
 - Google App Engine Server (Receive/send request from/to Android client)
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/gae.png)
+![Image Alt](/demo/gae.png)
 
 - Jenkins server (Collect crime data from offical website periodically and integration test)
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/jenkins.png)
+![Image Alt](/demo/jenkins.png)
 
 - HTML that interacts with native code via Javascript (Android webView)
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/dhtml.png)
+![Image Alt](/dev/demo/dhtml.png)
 
 - Android test framework
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/androidtest.png)
+![Image Alt](/demo/androidtest.png)
 
 - Pubnub
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/pubnub.png)
+![Image Alt](/dev/demo/pubnub.png)
 
 - Selenium
 
-![Image Alt](https://github.com/skyw932/CrimeSpot/raw/dev/demo/se.png)
+![Image Alt](/dev/demo/se.png)
 
 Tests
 ------
