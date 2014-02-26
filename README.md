@@ -43,7 +43,6 @@ An Android app to provide users the safety information in Gmap and a warning sys
 
 Tools / framework used
 ------------------------
-<<<<<<< HEAD
 - Google App Engine Server (Receive/send request from/to Android client)
 
 ![Image Alt](/demo/gae.png)
@@ -62,11 +61,11 @@ Tools / framework used
 
 - Pubnub
 
-![Image Alt](/dev/demo/pubnub.png)
+![Image Alt](/demo/pubnub.png)
 
 - Selenium
 
-![Image Alt](/dev/demo/se.png)
+![Image Alt](/demo/se.png)
 
 Tests
 ------
@@ -95,7 +94,6 @@ Data collection and processing
 - Where and how to collect the crime data?
 - What's the basis of the safety score?
 - ...
->>>>>>> origin/master
 
 Pivotaltracker
 ------------------
